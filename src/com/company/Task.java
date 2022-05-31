@@ -21,5 +21,4 @@ public class Task implements Runnable {
     public long getCounterValue(){
         return counter;
     }
-
 }
